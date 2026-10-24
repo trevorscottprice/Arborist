@@ -21,6 +21,7 @@ Plant and grow trees! Craft tree saplings from wood and throw them to plant real
 - **Simple Recipe**: 5 wood → 1 tree sapling
 - **Capsule-based Planting**: Throw saplings like grenades with a 20-tile range
 - **Audio Feedback**: Plays error sound when planting in invalid locations
+- **Sapling Refund**: If a tree can't be planted, the sapling is returned to your inventory (or dropped at your feet if it's full)
 
 ## Installation
 
@@ -67,7 +68,7 @@ Arborist is fully localized in the following languages:
 ## Technical Details
 
 ### Requirements
-- Factorio version 2.0 or higher
+- Factorio version 2.1 or higher
 - Base game mod
 
 ### Biome Detection Logic
@@ -117,6 +118,10 @@ Created by Trevor Scott Price
 - **Factorio Mod Portal**: https://mods.factorio.com/mod/Arborist
 
 ## Changelog
+
+### Version 1.1.0
+- Updated for Factorio 2.1
+- Saplings are refunded when a tree can't be planted
 
 ### Version 1.0.0
 - Initial release

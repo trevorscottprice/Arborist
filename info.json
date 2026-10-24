@@ -1,9 +1,9 @@
 {
   "name": "Arborist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "Arborist",
   "author": "trevorscottprice",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "description": "Plant and grow trees! Craft tree saplings from wood and throw them to plant real trees. Perfect for reforestation, pollution reduction, and renewable wood farming. Trees adapt to biomes - green trees on grass, red/brown trees in deserts. Replant your factory's forests!",
-  "dependencies": ["base >= 2.0"]
+  "dependencies": ["base >= 2.1"]
 }
